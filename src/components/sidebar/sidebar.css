@@ -1,0 +1,30 @@
+.side-nav{
+    position: fixed;
+    border: 0px solid #d0ccab;
+    text-align: left;
+    margin-left: 10px;
+    padding-left: 20px;
+    padding-top: 250px;
+    border-right: 3px solid #d0ccab;
+    background-color: #faf9f8;
+    width: 250px;
+    height: 100vh;
+    
+    border-left: none;
+    font-size: large;
+    color: rgb(27, 27, 27);
+}
+
+.side-nav div{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    color: rgb(61, 61, 61);
+    cursor: pointer;
+}
+
+.side-nav div h1{
+    margin-left: 10px;
+    color: rgb(70, 70, 70);
+    font-family: 'Tangerine', cursive;
+}
