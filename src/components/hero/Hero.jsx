@@ -26,7 +26,7 @@ const Hero = () => {
           {/* <img src="" alt="" height={20} width={50} /> */}
           <div>
             <a href="https://drive.google.com/file/d/1cJzN988zfwvqIYoN-QJnIKWl_7nh1VOi/view">
-              <button className='hire-button' onClick="https://drive.google.com/file/d/1cJzN988zfwvqIYoN-QJnIKWl_7nh1VOi/view">Download Resume</button>
+              <button className='hire-button'>Download Resume</button>
             </a>
           </div>
         </div>

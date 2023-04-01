@@ -14,9 +14,9 @@ function App() {
         <Sidebar />
         <div>
           <Hero />
-          <Experience />
-          <Skills />
           <Aboutme />
+          <Skills />
+          <Experience />
         </div>
       </div>
 

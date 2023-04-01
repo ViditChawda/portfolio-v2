@@ -1,6 +1,49 @@
-.aboutme-main-container {
+.aboutme-main-container{
+    display: flex;
+    font-size: x-large;
+    font-weight: bolder;
+    justify-content: center;
+}
+
+.aboutme-main-container div{
+    margin-top: 23px;
+    border: 1px solid #d0ccab;
+    height: 0px;
+    width: 300px;
+}
+
+.aboutme-main-container h1{
+    margin-left: 15px;
+    margin-right: 15px;
+    font-size: larger;
+}
+
+.m-container{
     margin-left: 260px;
     width: 1259px;
     height: 100vh;
-    border: 2px solid #d0ccab;
+    position: relative;
+}
+
+.my-pic{
+    margin-left: 50px;
+    margin-top: 90px;
+    /* position: absolute; */
+    opacity: 0.8;
+}
+
+.my-description{
+    font-size: larger;
+    padding: 90px;
+    /* position: absolute; */
+
+}
+
+.my-description span{
+    color: #efd90d;
+    font-weight: 600;
+}
+
+.my-content{
+    display: flex;
 }
