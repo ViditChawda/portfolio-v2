@@ -1,8 +1,5 @@
 .skill-main-container{
-    margin-left: 260px;
-    width: 1259px;
     display: flex;
-    height: 100vh;
     font-size: x-large;
     font-weight: bolder;
     justify-content: center;
@@ -20,3 +17,21 @@
     margin-right: 15px;
     font-size: larger;
 }
+
+.s-container{
+    margin-left: 260px;
+    width: 1259px;
+    height: 100vh;
+    position: relative;
+}
+
+.mypic3{
+    height: 250px;
+    width: 120px;
+    opacity: 0.8;
+    margin-top: 150px;
+    margin-left: 30px;
+
+}
+
+
